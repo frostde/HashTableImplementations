@@ -1,0 +1,34 @@
+Run 1:
+Inserts:
+LPH Collisions: 97
+QPH Collisions: 76
+CHH Collisions: 0
+
+Inserts & Searches:
+LPH Collisions: 194
+QPH Collisions: 178
+CHH Collisions: 108
+
+Run 2:
+Inserts:
+LPH Collisions: 54
+QPH Collisions: 48
+CHH Collisions: 0
+
+
+Inserts & Searches:
+LPH Collisions: 108
+QPH Collisions: 120
+CHH Collisions: 88
+
+Run 3:
+Inserts:
+LPH Collisions: 125
+QPH Collisions: 81
+CHH Collisions: 0
+
+
+Inserts & Searches:
+LPH Collisions: 250
+QPH Collisions: 190
+CHH Collisions: 82
